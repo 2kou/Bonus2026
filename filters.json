@@ -1,0 +1,8 @@
+{
+  "exemple": {
+    "ignore": [
+      "photo",
+      "video"
+    ]
+  }
+}

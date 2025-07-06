@@ -1,0 +1,14 @@
+{
+  "22967924076": {
+    "vers_stats": {
+      "process_reply": true,
+      "process_edit": true,
+      "process_delete": true,
+      "process_me": false,
+      "process_forward": false,
+      "process_raw": false,
+      "process_duplicates": true,
+      "delay_spread_mode": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "1190237801": {
+    "status": "active",
+    "plan": "semaine",
+    "license_key": "4C32CDA3",
+    "start_time": "2025-07-06T17:02:59.031869",
+    "expires": "2025-07-13T17:02:59.031869",
+    "activated_at": "2025-07-06T17:02:59.031869"
+  },
+  "5622847726": {
+    "status": "active",
+    "plan": "semaine",
+    "license_key": "69C5D977",
+    "start_time": "2025-07-06T17:01:23.015011",
+    "expires": "2025-07-13T17:01:23.015011",
+    "activated_at": "2025-07-06T17:01:23.015011"
+  }
+}
